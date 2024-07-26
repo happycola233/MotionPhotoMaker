@@ -1,2 +1,6 @@
+# Ignore all Perl files
+*.pm linguist-vendored
 *.pl linguist-vendored
+
+# Ensure Python files are recognized as the primary language
 *.py linguist-language=Python
