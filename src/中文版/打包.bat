@@ -1,0 +1,1 @@
+pyinstaller -F Motion_Photo_Maker.py -i icon.png --add-data "exiftool;exiftool"
