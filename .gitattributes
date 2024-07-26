@@ -1,0 +1,2 @@
+*.pl linguist-vendored
+*.py linguist-language=Python
