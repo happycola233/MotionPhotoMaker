@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This Python program can merge JPG photos and MOV/MP4 videos into Google Motion Photo format. After merging, you can preview the dynamic effect using a Google Pixel phone or the built-in "[Microsoft Photos(https://www.microsoft.com/store/productId/9WZDNCRFJBH4?ocid=pdpshare)" application in Windows 11. ⭐ Additionally, you can use this program to convert Apple Live Photos into a format recognizable by Windows.
+This Python program can merge JPG photos and MOV/MP4 videos into Google Motion Photo format. After merging, you can preview the dynamic effect using a Google Pixel phone or the built-in "[Microsoft Photos](https://www.microsoft.com/store/productId/9WZDNCRFJBH4?ocid=pdpshare)" application in Windows 11. ⭐ Additionally, you can use this program to convert Apple Live Photos into a format recognizable by Windows.
 
 ## Features
 
